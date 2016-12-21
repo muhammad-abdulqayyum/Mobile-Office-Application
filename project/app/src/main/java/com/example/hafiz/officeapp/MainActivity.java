@@ -49,9 +49,9 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-    void startDrawing (View view)
+    void startLogin (View view)
     {
-        Intent intent = new Intent(this, DrawingActivity.class);
+        Intent intent = new Intent(this, LoginActivity.class);
         startActivity(intent);
     }
 

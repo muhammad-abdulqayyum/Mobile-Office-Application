@@ -10,7 +10,8 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="com.example.hafiz.officeapp.NotepadActivity"
-    tools:showIn="@layout/activity_notepad">
+    tools:showIn="@layout/activity_notepad"
+    android:background="@mipmap/wooden_background">
 
     <TextView
         android:layout_width="wrap_content"

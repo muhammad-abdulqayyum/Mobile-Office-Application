@@ -11,7 +11,7 @@
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="com.example.hafiz.officeapp.MainActivity"
     tools:showIn="@layout/activity_main"
-    android:background="@android:color/darker_gray">
+    android:background="@mipmap/wooden_background">
 
     <Button
         android:layout_width="wrap_content"
@@ -27,7 +27,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Scheduling"
+        android:text="Calender"
         android:id="@+id/button2"
         android:layout_alignTop="@+id/button"
         android:layout_alignParentRight="true"
@@ -47,12 +47,12 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Drawing"
+        android:text="Chat Login"
         android:id="@+id/button4"
         android:layout_alignTop="@+id/button3"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
-        android:onClick="startDrawing"/>
+        android:onClick="startLogin"/>
 
     <TextView
         android:layout_width="wrap_content"
