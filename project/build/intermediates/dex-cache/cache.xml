@@ -11,6 +11,33 @@
         <dex dex="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_f79c8448adf30612c4550ffce8c5f0dcf9893119\classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-24.2.0_c5c4600de025dcce77e98414e6ed4a20e243560a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_f79c8448adf30612c4550ffce8c5f0dcf9893119.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-24.2.0_a36902de23324c1464262086f55a3bc7251228e8.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
@@ -56,6 +83,51 @@
         <dex dex="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_4ba89a3ed8a1a5e269b599c3ae504ea74af6ad14\classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_62ab98ad880edc1afe43707dfdf25356dfcbbc46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-24.2.0_09d3de7f45eb00cc715a733fbdcfacf53b825134.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-24.2.0_b4d772ec607297ff9e4fbf947be28640375786bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_42c58e661ceef068d4afc0815e8cd34b41d6f6dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-24.2.0_4ba89a3ed8a1a5e269b599c3ae504ea74af6ad14.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
         jumboMode="true"
@@ -63,6 +135,15 @@
         revision="24.0.2"
         sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
         <dex dex="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_1235881c49ff15df85f8520dd13aa0509c978006\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_1235881c49ff15df85f8520dd13aa0509c978006.jar" />
     </item>
     <item
         is-multidex="true"
@@ -83,6 +164,15 @@
         <dex dex="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_09673dc81abf20e6648eb96591ee00498243c547\classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.2.0_f42639369224d2ec766cf813b5b1957d56b19193.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
         jumboMode="true"
@@ -90,6 +180,15 @@
         revision="24.0.2"
         sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
         <dex dex="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_c5c4600de025dcce77e98414e6ed4a20e243560a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_09673dc81abf20e6648eb96591ee00498243c547.jar" />
     </item>
     <item
         is-multidex="true"
@@ -110,6 +209,15 @@
         <dex dex="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_861b130298b7b334b72853983133dd4ba0f92133\classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-24.2.0_861b130298b7b334b72853983133dd4ba0f92133.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
         jumboMode="true"
@@ -117,6 +225,15 @@
         revision="24.0.2"
         sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
         <dex dex="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_1d9a040186fff65705262ff3bf77f8fc95294792\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hafiz\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\pre-dexed\release\support-annotations-24.2.0_44f3749324a2cf06444483c77f16fddfb11cae86.jar" />
     </item>
     <item
         is-multidex="true"
@@ -135,6 +252,15 @@
         revision="24.0.2"
         sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
         <dex dex="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.0_836821e2929d014b10e9d3e8f84a222c597b3dee\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\pre-dexed\release\com.android.support-design-24.2.0_836821e2929d014b10e9d3e8f84a222c597b3dee.jar" />
     </item>
     <item
         is-multidex="true"
@@ -164,6 +290,15 @@
         <dex dex="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_0e21d49fa67dfe7cc9adfcade83c8d5873377fb8\classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-24.2.0_0e21d49fa67dfe7cc9adfcade83c8d5873377fb8.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
         jumboMode="true"
@@ -171,6 +306,24 @@
         revision="24.0.2"
         sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
         <dex dex="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_ed1792856d430aaf930f2020f26e39db12caac65\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-24.2.0_ed1792856d430aaf930f2020f26e39db12caac65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Hafiz\Documents\GitHub\FinalProj\Mobile-Office-Application\project\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-24.2.0_1d9a040186fff65705262ff3bf77f8fc95294792.jar" />
     </item>
 
 </items>
